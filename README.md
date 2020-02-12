@@ -110,6 +110,7 @@ AS WE GET MORE AND MORE DATA, HOW DOES OUR ALGORITHM PERFORM?
 - [Leet Code](https://leetcode.com/)
 - [Hacker Rank](https://www.hackerrank.com/auth/signup?h_r=home&h_l=body_middle_left_button&h_v=1)
 - [codewars](https://www.codewars.com/)
+- [pramp](https://www.pramp.com/#/)
 - [Cracking the Coding Interview book](http://www.crackingthecodinginterview.com/)
 - [Big O Explained with Examples](https://developerinsider.co/big-o-notation-explained-with-examples/)
 
